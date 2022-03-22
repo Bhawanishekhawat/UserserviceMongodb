@@ -1,0 +1,7 @@
+user\management\user\service\Application.class
+user\management\user\service\VO\Department.class
+user\management\user\service\VO\ResponseTemplateVO.class
+user\management\user\service\controller\UserController.class
+user\management\user\service\repository\UserRepo.class
+user\management\user\service\service\UserService.class
+user\management\user\service\entity\User.class
